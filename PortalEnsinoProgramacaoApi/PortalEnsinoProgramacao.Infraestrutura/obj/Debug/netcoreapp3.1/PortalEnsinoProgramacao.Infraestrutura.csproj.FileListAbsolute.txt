@@ -1,0 +1,12 @@
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\bin\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.deps.json
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\bin\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.dll
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\bin\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.pdb
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.dll
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.pdb
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\bin\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.dll
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\bin\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.pdb
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Infraestrutura\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Infraestrutura.csproj.CopyComplete

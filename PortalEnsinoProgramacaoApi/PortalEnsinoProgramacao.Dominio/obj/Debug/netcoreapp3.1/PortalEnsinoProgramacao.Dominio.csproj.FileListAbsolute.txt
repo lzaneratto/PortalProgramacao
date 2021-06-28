@@ -1,0 +1,9 @@
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\bin\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.deps.json
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\bin\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.dll
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\bin\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.pdb
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.csprojAssemblyReference.cache
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.dll
+C:\Users\Leandro\source\repos\PortalEnsinoProgramacaoApi\PortalEnsinoProgramacao.Dominio\obj\Debug\netcoreapp3.1\PortalEnsinoProgramacao.Dominio.pdb
